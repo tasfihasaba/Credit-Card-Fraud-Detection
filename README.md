@@ -12,11 +12,8 @@ and denials of valid transactions.
 
 In this project, With the aid of machine learning models, I identified fraudulent credit card transactions. 
 
+This data set includes credit card transactions made by European cardholders over a period of two days in September 2013. There were 492 fraudulent transactions out of a total of 2,84,807 transactions. The positive class (frauds) accounts for 0.172% of total transactions in this data set, which is highly unbalanced. To maintain confidentiality, the data set was also modified using principal component analysis (PCA). Aside from 'time' and 'amount,' all of the other features (V1, V2, V3, and so on) are the primary components obtained through PCA. The 'time' feature stores the seconds that passed between the first transaction in the data set and the subsequent transactions. The 'amount' feature represents the transaction amount. The 'class' feature represents class labeling and has a value of 1 in cases of fraud and 0 in others.
 
 
-Below, I'm checking the correlation in heatmap by passing the Correlation object.
-The Dark-red shows strongly correlated and Light-orange shows it is not so highly correlated. 
 
-
-https://user-images.githubusercontent.com/77076887/213314401-67c394d1-2d6f-4268-bef1-2c849ec231e5.mp4
 
