@@ -10,13 +10,12 @@ requirement for them to set up proactive monitoring and fraud protection procedu
 are using machine learning to cut down on time-consuming manual reviews, pricey chargebacks and penalties, 
 and denials of valid transactions. 
 
-In this project, With the aid of machine learning models, we will identify fraudulent credit card transactions. 
+In this project, With the aid of machine learning models, I identified fraudulent credit card transactions. 
 
 
 
 Below, I'm checking the correlation in heatmap by passing the Correlation object.
-Dark-red shows strongly correlated. 
-Light-orange shows it is not so highly correlated. 
+The Dark-red shows strongly correlated and Light-orange shows it is not so highly correlated. 
 
 
 https://user-images.githubusercontent.com/77076887/213314401-67c394d1-2d6f-4268-bef1-2c849ec231e5.mp4
